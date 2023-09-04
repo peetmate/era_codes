@@ -1,4 +1,5 @@
 EU,Product.Type,Product.Type.Code,Product.Subtype,Product.Subtype.Code,Product.Subtype.Code.Check,Product,Product.Simple,Product.Simple.Code,Product.Code.Check,Component,Species,Notes,Nfix,Tree,Mulched,Incorp,Unknown.Fate
+xt2,xPlant Product,xPlant Product,badger,AgTr,,Acacia angustissima,Acacia angustissima,,,NA,Acacia angustissima,,Yes,Yes,a16.1,a16.2,a16
 t2,Plant Product,Plant Product,Agroforestry Tree,AgTr,,Acacia angustissima,Acacia angustissima,,,NA,Acacia angustissima,,Yes,Yes,a16.1,a16.2,a16
 t3,Plant Product,Plant Product,Agroforestry Tree,AgTr,,Acacia auriculiformis,Acacia auriculiformis,,,NA,Acacia auriculiformis,,Yes,Yes,a16.1,a16.2,a16
 t4,Plant Product,Plant Product,Agroforestry Tree,AgTr,,Acacia brevispica,Acacia brevispica,,,NA,Acacia brevispica,,Yes,Yes,a16.1,a16.2,a16
